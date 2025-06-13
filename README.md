@@ -1,4 +1,5 @@
-![LinkedIn Background](https://github.com/adhishbiju2000/adhishbiju2000/assets/156699315/49344865-59da-42d3-ac44-5e77422fbe0f)
+![Add a heading (1)](https://github.com/user-attachments/assets/f3865bb2-107c-412a-b6cb-2ba06cc7130b)
+
 
 <h1 align="center">Hi 👋, I'm Adhish Bijukumar</h1>
 <h3 align="center">🚀 Aspiring Data Analyst & AI Enthusiast | Empowering Businesses with Data</h3>
