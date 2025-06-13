@@ -12,45 +12,48 @@
 ### 👨‍💻 About Me
 
 - 🎓 Final Year IT Student | TY IT B | Focused on **Data Analytics**
-- 🔭 Currently working on:
-  - AI-Powered Soil & Plant Health Detection (AgroAI Assist)
+- 🔭 I’m currently working on:
+  - AI-Powered Soil & Plant Health Detection (`AgroAI Assist`)
   - Power BI Dashboards | Excel Automation
   - Machine Learning Projects
-- 🌱 Currently learning:
-  - Data Science, Machine Learning, Deep Learning
-  - Python, Power BI, Tableau, SQL
-- 📫 Reach me at: adhishbiju2000@gmail.com
+- 🌱 I’m currently learning:
+  - **Data Science**, **Machine Learning**, **Deep Learning**
+  - **Python**, **Power BI**, **Tableau**, **SQL**
+- 📫 Reach me at: [adhishbiju2000@gmail.com](mailto:adhishbiju2000@gmail.com)
 
 ---
 
 ### 🛠️ Technologies & Tools
 
-- Python
-- Power BI
-- SQL
-- Microsoft Excel
-- Tableau
-- R Language
-- HTML & CSS
-- C Programming
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%20Programming-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adhishbiju2000&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adhishbiju2000&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adhishbiju2000&show_icons=true&theme=radical" alt="Adhish's GitHub stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adhishbiju2000&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="48%"/>
 </p>
 
 ---
 
 ### 🧠 Projects Worth Checking
 
-- AgroAI Assist – Soil & Plant Health Detector + Weather Alerts  
-- Sales Dashboard 2024 – Excel  
-- Gym Members Exercise Dashboard – Power BI  
-- Ecommerce Interactive Dashboard – Power BI
+- 🔬 [AgroAI Assist – Soil & Plant Health Detector + Weather Alerts](https://github.com/adhishbiju2000/AgroAI-Assist)
+- 📈 [Sales Dashboard 2024 – Excel](https://github.com/adhishbiju2000/SalesDashboard2024)
+- 💪 [Gym Members Exercise Dashboard – Power BI](https://github.com/adhishbiju2000/GymDashboard)
+- 🛍️ [Ecommerce Interactive Dashboard – Power BI](https://github.com/adhishbiju2000/EcommerceDashboard)
+
+---
 
 ---
 
