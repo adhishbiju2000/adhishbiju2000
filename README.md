@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Final Year IT Student | TY IT B | Focused on **Data Analytics**
+- 🎓 Final Year IT Student | TY IT B | Focused on **Software Engineering, Data Science,Data Analytics**
 - 🔭 I’m currently working on:
   - AI-Powered Soil & Plant Health Detection (`AgroAI Assist`)
   - Power BI Dashboards | Excel Automation
