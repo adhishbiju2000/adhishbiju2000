@@ -1,79 +1,54 @@
-![Add a heading (1)](https://github.com/user-attachments/assets/f3865bb2-107c-412a-b6cb-2ba06cc7130b)
+<h1 align="center">Hi, I'm Adhish Biju 👋</h1>
 
-
-<h1 align="center">Hi 👋, I'm Adhish Bijukumar</h1>
-<h3 align="center">🚀 Aspiring Data Analyst & AI Enthusiast | Empowering Businesses with Data</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00C47D&center=true&vCenter=true&width=435&lines=Turning+Data+into+Decisions!;Data+Analytics+%7C+AI+%7C+Python+%7C+Visualization;Always+Learning+%F0%9F%93%9A+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<h3 align="center">
+Data Analyst | Power BI | SQL | Excel | Python
+</h3>
 
 ---
 
-### 👨‍💻 About Me
+## About Me
 
-- 🎓 Final Year IT Student | TY IT B | Focused on **Software Engineering, Data Science,Data Analytics**
-- 🔭 I’m currently working on:
-  - AI-Powered Soil & Plant Health Detection (`AgroAI Assist`)
-  - Power BI Dashboards | Excel Automation
-  - Machine Learning Projects
-- 🌱 I’m currently learning:
-  - **Data Science**, **Machine Learning**, **Deep Learning**
-  - **Python**, **Power BI**, **Tableau**, **SQL**
-- 📫 Reach me at: [adhishbiju2000@gmail.com](mailto:adhishbiju2000@gmail.com)
+- B.Tech Information Technology Student
+- Aspiring Data Analyst with hands-on experience in data analysis, dashboard development, and reporting
+- Skilled in Power BI, SQL, Excel, and Python for data-driven decision making
+- Interested in business analytics, data visualization, and problem-solving using data
 
 ---
 
-### 🛠️ Technologies & Tools
+## Skills
+
+### Data Analytics
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Dashboard Development
+- Data Visualization
+- Reporting & Insights
+
+### Tools & Technologies
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%20Programming-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## Certifications
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adhishbiju2000&show_icons=true&theme=radical" alt="Adhish's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adhishbiju2000&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="48%"/>
-</p>
-
----
-
-### 🧠 Projects Worth Checking
-
-- 🔬 [AgroAI Assist – Soil & Plant Health Detector + Weather Alerts](https://github.com/adhishbiju2000/AgroAI-Assist)
-- 📈 [Sales Dashboard 2024 – Excel](https://github.com/adhishbiju2000/SalesDashboard2024)
-- 💪 [Gym Members Exercise Dashboard – Power BI](https://github.com/adhishbiju2000/GymDashboard)
-- 🛍️ [Ecommerce Interactive Dashboard – Power BI](https://github.com/adhishbiju2000/EcommerceDashboard)
+- Data Analytics Essentials – Cisco
+- Python Foundation Certification – Infosys
+- Microsoft Power BI Basics
+- Introduction to Generative AI – Google
 
 ---
 
----
+## Connect With Me
 
-### 💼 Resume | Certifications | Achievements
-
-- Accenture North America Data Analytics Simulation  
-- Power BI Badge – Microsoft  
-- Python Complete Course – Horizon Tech, Udemy  
-- Resume – Available on request
-
----
-
-### 📬 Let's Connect
-
-- Email: adhishbiju2000@gmail.com  
-- LinkedIn: adhishbiju2000  
-- GitHub: adhishbiju2000  
-
----
-
-🔄 *“Keep Learning. Keep Building. Keep Growing.”*  
-🧠 *#DataAnalytics | #MachineLearning | #AI | #Python | #PowerBI*
+- 📧 Email: adhishbiju2000@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/adhishbijukumar
+- 💻 GitHub: github.com/adhishbiju2000
