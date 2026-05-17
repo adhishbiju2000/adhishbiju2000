@@ -1,6 +1,6 @@
-<div align="center">
 
-# Hi, I'm Adhish Biju 👋
+
+# ADHISH BIJU
 
 **Data Analyst · Power BI · SQL · Excel · Python**
 
@@ -8,20 +8,19 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adhishbiju2000)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adhishbiju2000@gmail.com)
 
-</div>
 
 ---
 
 ## About Me
 
-- 🎓 B.Tech Information Technology student
-- 📊 Aspiring Data Analyst with hands-on experience in data analysis, dashboard development, and reporting
-- 💡 Passionate about turning raw data into actionable insights
-- 🔍 Interested in business analytics, data visualization, and problem-solving using data
+- B.Tech Information Technology from Pillai College of Engineering, New Panvel, Navi Mumbai
+- Aspiring Data Analyst with hands-on experience in data analysis, dashboard development, and reporting
+- Passionate about turning raw data into actionable insights
+- Interested in business analytics, data visualization, and problem-solving using data
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 <div align="center">
 
@@ -37,7 +36,7 @@
 
 ---
 
-## 📈 Skills
+## Skills
 
 | Area | Skills |
 |------|--------|
@@ -47,7 +46,7 @@
 
 ---
 
-## 🏅 Certifications
+## Certifications
 
 | Certificate | Issuer |
 |-------------|--------|
@@ -58,25 +57,15 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
+## Connect With Me
 
-![Adhish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adhishbiju2000&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adhishbiju2000&layout=compact&hide_border=true&theme=default)
-
-</div>
-
----
-
-## 📬 Connect With Me
-
-- 📧 **Email:** [adhishbiju2000@gmail.com](mailto:adhishbiju2000@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/adhishbijukumar](https://www.linkedin.com/in/adhishbijukumar)
-- 💻 **GitHub:** [github.com/adhishbiju2000](https://github.com/adhishbiju2000)
+- **Email:** [adhishbiju2000@gmail.com](mailto:adhishbiju2000@gmail.com)
+- **LinkedIn:** [linkedin.com/in/adhishbijukumar](https://www.linkedin.com/in/adhishbijukumar)
+- **GitHub:** [github.com/adhishbiju2000](https://github.com/adhishbiju2000)
 
 ---
 
 <div align="center">
-  <i>⚡ "Data is the new oil — and I'm here to refine it."</i>
+  <i> "Data is the new oil — and I'm here to refine it."</i>
 </div>
